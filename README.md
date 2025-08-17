@@ -8,3 +8,4 @@ Here analysis was made on major analysis steps which include: <br>
 Tha choice of model was made due to its simplicity and suitiblity with binary classification problem.<br>
 This project can be further expanded to larger datasets for more complex analysis.<br>
 
+<br> For any assistance reach me at : ayeshawork51@gmail.com
