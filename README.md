@@ -7,5 +7,7 @@ Here analysis was made on major analysis steps which include: <br>
           * Model training<br>
 Tha choice of model was made due to its simplicity and suitiblity with binary classification problem.<br>
 This project can be further expanded to larger datasets for more complex analysis.<br>
+THe repository also contain a docx file which has the description of project and UML diagrams.
+
 
 <br> For any assistance reach me at : ayeshawork51@gmail.com
